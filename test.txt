@@ -1,0 +1,4 @@
+create a new file in git directory.
+add a commit the file.
+push the code to central reposit:
+
