@@ -4,3 +4,4 @@ git add
 git pull
 git bye
 git git
+git
