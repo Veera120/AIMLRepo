@@ -1,0 +1,37 @@
+
+(base) C:\Users\ADMIN>cd charan/
+
+(base) C:\Users\ADMIN\charan>cd AIMLRepo/
+
+(base) C:\Users\ADMIN\charan\AIMLRepo>cd python-practices
+
+(base) C:\Users\ADMIN\charan\AIMLRepo\python-practices>cd DAY-4 Practice/
+
+(base) C:\Users\ADMIN\charan\AIMLRepo\python-practices\DAY-4 Practice>python word_count.py
+Usage: python word_count.py <file_name>
+
+(base) C:\Users\ADMIN\charan\AIMLRepo\python-practices\DAY-4 Practice>python word_count.py Apple.txt
+apple: 1
+banana: 1
+cherry: 2
+charan: 3
+bigboss: 2
+goa: 1
+lemon: 1
+
+(base) C:\Users\ADMIN\charan\AIMLRepo\python-practices\DAY-4 Practice>python command.py Apple.txt
+apple: 1
+banana: 1
+cherry: 2
+charan: 3
+bigboss: 2
+goa: 1
+lemon: 1
+
+(base) C:\Users\ADMIN\charan\AIMLRepo\python-practices\DAY-4 Practice>python sixth.py
+Usage: python program.py input_file output_file
+
+(base) C:\Users\ADMIN\charan\AIMLRepo\python-practices\DAY-4 Practice>python sixth.py source.txt om.txt
+File processing completed successfully.
+
+(base) C:\Users\ADMIN\charan\AIMLRepo\python-practices\DAY-4 Practice>
