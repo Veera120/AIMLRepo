@@ -1,0 +1,64 @@
+[10:59 PM, 9/16/2023] .: 1. Case Study: Online Shopping Cart Exception Handling
+
+You are working as a Python developer for an e-commerce company, and your team is responsible for building and maintaining the shopping cart module of the website. Customers can add items to their cart, view the cart contents, and proceed to checkout.
+
+Recently, there have been reports of unexpected crashes and errors when customers interact with their shopping carts. Your task is to investigate these issues and improve the exception handling in the shopping cart code to make it more robust.
+[11:00 PM, 9/16/2023] .: Requirements and Scenarios:
+
+Scenario 1 - Adding Items to Cart:
+
+When a customer adds an item to their cart, they provide the product ID and quantity. Handle exceptions that may occur during this process, such as: I
+
+i. Product ID not found in the product catalog.
+
+ii. Invalid quantity (e.g., negative quantity or non-integer input).
+
+Scenario 2 - Viewing Cart Contents:
+
+When a customer views their cart, display the list of items and their quantities. Handle exceptions that may occur during this process, such as:
+
+i. Empty cart (no items added).
+
+ii. Unexpected errors (e.g., network issues when fetching cart data).
+[11:00 PM, 9/16/2023] .: Scenario 3 - Proceeding to Checkout:
+
+Python assignments we....pdf
+
+ED Info
+
+When a customer proceeds to checkout, validate the cart and process the payment. Handle exceptions that may occur during this process, such as:
+
+i. Insufficient stock for some items in the cart.
+
+ii. Payment gateway errors.
+
+iii. Customer payment method declined.
+
+Your Tasks:
+
+I
+
+1. Review the existing shopping cart code to identify potential areas where exceptions may occur.
+
+2. Enhance the exception handling in the code by adding appropriate try, except, and finally blocks to handle exceptions gracefully. Provide helpful error messages to the user where applicable.
+
+3. Ensure that the program continues to run smoothly even when exceptions occur, and
+
+customers receive informative …
+[11:23 PM, 9/17/2023] .: 7. Write a Python script that compares two text files and identifies the differences between them, including added, modified, and deleted lines
+
+8. Develop a Python program that compresses a large text file using a compression algorithm (e.g., gzip) and then decompresses it back to its original form.
+
+9. Read a binary file (e.g., an image or audio file) in Python and perform an operation, such as resizing an image or modifying audio data.
+
+10. Write a python program to Combine the contents of multiple text files into a single file using Python. Each file should be appended to the end of the resulting file.
+
+11. Create a Python script that accepts a text file as a command-line argument and counts the number of words, lines, and characters in the file
+[11:59 PM, 9/17/2023] .: 12. Build a command-line calculator that accepts a mathematical expression as a string argument and evaluates it, then prints the result.
+
+13. Implement a Python script that takes a CSV file and two column names as command-line arguments. The script should calculate the average of values in one column and store the result in another column in the same file.
+[11:59 PM, 9/17/2023] .: 14. Write a Python script that takes two integer command-line arguments and prints their sum.
+
+15. Create a custom Python module that includes functions to calculate the factorial of a number and to check if a number is prime. Import and use this module in another Python script.
+
+16. Create a Python module named calculator.py that contains functions for each of the four operations (addition, subtraction, multiplication, and division). Each function should take two arguments, perform the respective operation, and return the result.
