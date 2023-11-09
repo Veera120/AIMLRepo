@@ -1,4 +1,0 @@
-git add
-git merge
-git poiny pull
-git
